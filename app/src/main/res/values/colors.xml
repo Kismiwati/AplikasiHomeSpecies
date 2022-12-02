@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="colorPrimary">#2196F3</color>
-    <!--atribut colorPrimaryDark mengontrol warna bilah status-->
+    //atribut colorPrimaryDark mengontrol warna bilah status
     <color name="colorPrimaryDark">#0277BD</color>
     <color name="colorSecondary">#283593</color>
     <color name="colorScrim">#66434343</color>
@@ -10,6 +10,8 @@
     <color name="colorOnPrimary">#FFFFFF</color>
     <color name="colorDivider">#E7E7E7</color>
     <color name="colorStepDivider">#BDBDBD</color>
+    // Menggunakan nilai default untuk colorOnPrimary, colorSurface
+    //atribut colorbackground digunakan untuk memberikan warna latarbelakang
     <color name="colorBackground">#FAFAFA</color>
     <color name="darkSurface">#202020</color>
     <color name="whiteAlpha">#80FFFFFF</color>
