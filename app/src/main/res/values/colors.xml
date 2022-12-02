@@ -12,6 +12,7 @@
     <color name="colorStepDivider">#BDBDBD</color>
     // Menggunakan nilai default untuk colorOnPrimary, colorSurface
     //atribut colorbackground digunakan untuk memberikan warna latarbelakang
+
     <color name="colorBackground">#FAFAFA</color>
     <color name="darkSurface">#202020</color>
     <color name="whiteAlpha">#80FFFFFF</color>
